@@ -52,7 +52,7 @@
     "@toruslabs/openlogin-session-manager": "^3.1.1",
     "@toruslabs/openlogin-subkey": "^8.1.0",
     "@toruslabs/openlogin-utils": "^8.1.0",
-    "@uniswap/default-token-list": "^11.16.0",
+    "@uniswap/default-token-list": "^13.47.0",
     "@walletconnect/logger": "2.0.1",
     "@walletconnect/sign-client": "2.11.3",
     "@walletconnect/utils": "2.11.3",
