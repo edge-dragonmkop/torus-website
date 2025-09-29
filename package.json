@@ -82,7 +82,7 @@
     "swappable-obj-proxy": "^1.1.0",
     "vue": "^2.7.14",
     "vue-content-loader": "^0.2.3",
-    "vue-i18n": "^8.28.2",
+    "vue-i18n": "^11.1.12",
     "vue-json-pretty": "^1.9.4",
     "vue-qr": "^4.0.9",
     "vue-qrcode-reader": "^3.1.8",
